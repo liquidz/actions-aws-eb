@@ -1,5 +1,5 @@
 #!/bin/sh -l
 
-command="eb $1"
+command="$1"
 
 $command
