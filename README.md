@@ -9,7 +9,7 @@
 ## Example usage
 
 ```YAML
-uses: bloodyowl/actions-aws-eb@v1.0.0
+uses: bloodyowl/actions-aws-eb@v1.0.3
 with:
   command: 'eb deploy ${{ secrets.ENVIRONMENT_NAME }}'
 env:
