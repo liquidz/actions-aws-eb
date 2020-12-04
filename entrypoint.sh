@@ -1,5 +1,3 @@
 #!/bin/sh -l
 
-command="$1"
-
-$command
+eval $1
