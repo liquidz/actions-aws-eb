@@ -1,4 +1,4 @@
-# Aws eb cli action
+# AWS eb command
 
 ## Inputs
 
